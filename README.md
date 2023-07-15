@@ -1,3 +1,4 @@
 # OCTANET_JULY
-Task-1:   <img width="1440" alt="Screenshot 2023-07-15 at 15 08 19" src="https://github.com/Hardik-077/OCTANET_JULY/assets/114481588/3ea0d64c-d88c-4966-933e-cc3935291f3f">
-Task-2:   ![Uploading Screenshot 2023-07-15 at 15.10.17.png…]()
+Task-1:   <img width="1426" alt="Task-1 (Image)" src="https://github.com/Hardik-077/OCTANET_JULY/assets/114481588/ff6f7b93-ce30-42f2-8f32-cf398ae8978a">
+Task-2:<img width="1440" alt="Task-2 (Image)" src="https://github.com/Hardik-077/OCTANET_JULY/assets/114481588/4dd45841-7e4b-42d2-bd2c-52ea9760f988">
+
